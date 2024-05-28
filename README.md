@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m currently working on [Attendance management system](#)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** that project host on  magics22022.pythonanywhere.com
 
 - 👨‍💻 All of my projects are available at [#](#)
 
