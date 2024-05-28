@@ -51,9 +51,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvil-prajapati-16&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvil-prajapati-16" /> </p>
 
-- 🔭 I’m currently working on [Attendance management system](#)
+- 🔭 I’m currently working on [Attendance management system](magics22022.pythonanywhere.com)
 
-- 🌱 I’m currently learning **Django** that project host on  magics22022.pythonanywhere.com
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
