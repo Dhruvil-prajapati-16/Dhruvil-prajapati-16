@@ -55,13 +55,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at [IDhruvil](https://dhruvil-prajapati-16.github.io/IDhruvil/)
 
-- 📝 I regularly write articles on [#](#)
+- 📝 I regularly write articles on [IDhruvil](https://dhruvil-prajapati-16.github.io/IDhruvil/)
 
 - 📫 How to reach me **dhruvilprajapati.meh@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences and my Skills [IDhruvil](https://dhruvil-prajapati-16.github.io/IDhruvil/)
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
